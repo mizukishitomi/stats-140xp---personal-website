@@ -12,7 +12,7 @@ about:
     - text: Email
       url: "mizuki.shitomi@gmail.com"
       icon: inbox-fill
-    - text: CV
+    - text: Resume
       url: "cv_copy.pdf"
 toc: false
     
