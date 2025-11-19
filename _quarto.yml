@@ -9,7 +9,7 @@ website:
         text: Home
       - about.qmd
   page-footer:
-    right:"&coy; Mizuki Shitomi"
+    right:"&copy; Mizuki Shitomi"
 
 format:
   html:
