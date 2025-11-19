@@ -1,12 +1,12 @@
 ---
-title: "personal website"
+title: "Mizuki Shitomi"
 about: 
   template: trestles
   image: "Profile_Picture.png"
   links: 
-    - icon: github
-      text: Github
-      href: "https://github.com/mizukishitomi"
+    # - icon: github
+    #   text: Github
+    #   href: "https://github.com/mizukishitomi"
     - text: LinkedIn
       url: "https://www.linkedin.com/in/mizuki-shitomi/"
     - text: Email
@@ -18,4 +18,21 @@ toc: false
     
 ---
 
+
+Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+
 Here is my attached [CV](cv_copy.pdf)
+
+## Education
+
+University of California, San Diego | San Diego, CA
+PhD in Mathematics | Sept 2011 - June 2015
+
+Macalester College | St. Paul, MN
+B.A in Economics | Sept 2007 - June 2011
+
+## Experience
+
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Spet 2012 - April 2018
