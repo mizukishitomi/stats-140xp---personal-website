@@ -1,7 +1,7 @@
 ---
 title: "Mizuki Shitomi"
 about: 
-  template: trestles
+  template: jolla
   image: "Profile_Picture.png"
   links: 
     # - icon: github
@@ -18,21 +18,25 @@ toc: false
     
 ---
 
-
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
-
-Here is my attached [CV](cv_copy.pdf)
+Mizuki Shitomi is a Political Science and Statistics and Data Science double major, completing her undergrad in University of California, Los Angeles. Expected to graduate in Spring, 2026, she is currently applying for law school as an aspiring lawyer. 
 
 ## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+University of California, Los Angeles | Los Angeles, CA | September 2024 - June 2026
 
-Macalester College | St. Paul, MN
-B.A in Economics | Sept 2007 - June 2011
+B.A. Political Science | B.S. Statistics and Data Science  
+
+
+University of California, Santa Barbara | Santa Barbara, CA | September 2022 - June 2024
+
+Political Science | Statistics and Data Science 
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+Judicial Intern | Superior Court of California, County of Santa Clara | June 2025 - August 2025
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+Legislative Intern | Office of Congresswoman Nanette Barragán | June 2024 - August 2024
+
+## Resources 
+
+Here is my full [CV](cv_copy.pdf)
