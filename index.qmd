@@ -2,7 +2,7 @@
 title: "personal website"
 about: 
   template: trestles
-  image: "Profile Picture.png"
+  image: "Profile_Picture.png"
   links: 
     - icon: github
       text: Github
@@ -13,17 +13,9 @@ about:
       url: "mizuki.shitomi@gmail.com"
       icon: inbox-fill
     - text: CV
-      href: "cv copy.pdf"
+      url: "cv_copy.pdf"
 toc: false
     
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
-
-TESTING
+Here is my attached [CV](cv_copy.pdf)
