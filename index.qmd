@@ -1,5 +1,21 @@
 ---
 title: "personal website"
+about: 
+  template: trestles
+  image: "Profile Picture.png"
+  links: 
+    - icon: github
+      text: Github
+      href: "https://github.com/mizukishitomi"
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/mizuki-shitomi/"
+    - text: Email
+      url: "mizuki.shitomi@gmail.com"
+      icon: inbox-fill
+    - text: CV
+      href: "cv copy.pdf"
+toc: false
+    
 ---
 
 This is a Quarto website.
@@ -9,3 +25,5 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r}
 1 + 1
 ```
+
+TESTING

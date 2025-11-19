@@ -8,6 +8,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+  page-footer:
+    right:"&coy; Mizuki Shitomi"
 
 format:
   html:
