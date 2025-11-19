@@ -11,7 +11,7 @@ website:
         text: Home
       - about.qmd
   page-footer:
-    right:"&copy; Mizuki Shitomi"
+    right: "&copy; Mizuki Shitomi"
 
 format:
   html:
