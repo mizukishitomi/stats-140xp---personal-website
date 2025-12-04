@@ -9,9 +9,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: projects.qmd
       - href: about.qmd
         text: About
+      - href: projects.qmd
+        text: Projects
+
   page-footer:
     right: "&copy; Mizuki Shitomi"
 
