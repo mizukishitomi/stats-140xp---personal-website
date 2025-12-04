@@ -1,0 +1,27 @@
+---
+title: "Projects"
+toc: false
+listing: 
+  - id: project-listing
+    contents: 
+    - "/projects/*.qmd"
+    sort: false
+    sort-ui: false
+    filter-ui: true 
+    type: table
+    fields:
+      - title
+    categories: false
+---
+
+# (1) Monopoly 
+
+Developed a statistical model to estimate the likelihood of a player landing on each space in the popular board game Monopoly, providing insights for strategic gameplay. Here is my [Monopoly project](/projects/project1.qmd).
+
+# (2) Knot Theory Research 
+
+Researched on the Knot theory, a sub-field of Topology that deals with the study of
+mathematical knots. Here is my [research poster](projects/DRP_Poster.pdf). 
+
+::: project-listing
+:::
