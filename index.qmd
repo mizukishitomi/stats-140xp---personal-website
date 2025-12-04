@@ -4,9 +4,9 @@ about:
   template: jolla
   image: "Profile_Picture.png"
   links: 
-    # - icon: github
-    #   text: Github
-    #   href: "https://github.com/mizukishitomi"
+    - icon: github
+      text: Github
+      href: "https://github.com/mizukishitomi"
     - text: LinkedIn
       url: "https://www.linkedin.com/in/mizuki-shitomi/"
     - text: Email
