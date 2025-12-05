@@ -12,6 +12,9 @@ about:
     - text: Email
       url: "mizuki.shitomi@gmail.com"
       icon: inbox-fill
+    - text: Resume
+      url: "cv_copy.pdf"
+      
 toc: false
     
 ---
@@ -20,7 +23,7 @@ Mizuki Shitomi is a Political Science and Statistics and Data Science double maj
 
 # Resume 
 
-Below is a brief rundown of my resume. The full resume is attached [here](/CV_Files/cv/cv.qmd).
+Below is a brief rundown of my resume. The full resume is attached [here](cv_copy.pdf).
 
 
 ### Education

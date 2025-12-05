@@ -1,7 +1,7 @@
 project:
   type: website
-  # resources:
-  #   - cv_copy.pdf
+  resources:
+    - cv_copy.pdf
 
 website:
   title: "Mizuki Shitomi"
